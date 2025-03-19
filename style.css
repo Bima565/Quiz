@@ -1,0 +1,9 @@
+ @media (max-width: 768px) {
+        aside {
+          text-align: center;
+        }
+        .btn {
+          width: 100%;
+          padding: 15px 0;
+        }
+      }
